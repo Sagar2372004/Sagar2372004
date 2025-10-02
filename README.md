@@ -1,67 +1,51 @@
-## Hi there 👋
+# Hi there 👋, I'm Sagar Akolkar
 
-<!--
-**Sagar2372004/Sagar2372004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
 
-Here are some ideas to get you started:
+-   🌱 I'm currently learning **Java \| Spring Boot \| React \| MySQL**
+-   👯 I'm looking to collaborate on **Web Development Projects**
+-   💬 Ask me about **Java, HTML, CSS, JS**
+-   📫 Reach me at: **akolkars2004@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...# 👋 Hi, I'm Sagar Akolkar!
+------------------------------------------------------------------------
 
-🎓 Computer Graduate | 💻 Java Full Stack Developer | 🌱 Learning by Building Projects
+## 🔗 Connect with me
 
----
+[![Gmail](https://img.shields.io/badge/-akolkars2004@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akolkars2004@gmail.com)](mailto:akolkars2004@gmail.com)
 
-## 💡 Tech Stack:
+------------------------------------------------------------------------
 
-### 🌐 Frontend:
-- HTML5, CSS3, JavaScript
-- JSP (Java Server Pages)
-- Bootstrap
+## 🚀 Languages & Tools
 
-### 🛠️ Backend:
-- Java (Core + OOP)
-- Servlets & JSP
-- Spring Framework
-- Spring Boot
-- Spring MVC
-- Spring Security
+```{=html}
+<p>
+```
+`<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />`{=html}
+`<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />`{=html}
+`<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />`{=html}
+`<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />`{=html}
+`<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />`{=html}
+`<img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" />`{=html}
+`<img src="https://img.icons8.com/plasticine/48/react.png" alt="React" />`{=html}
+```{=html}
+</p>
+```
 
-### 💾 Database:
-- MySQL
-- Hibernate (ORM)
-- JPA (Java Persistence API)
+------------------------------------------------------------------------
 
-### ⚙️ Tools:
-- Eclipse / IntelliJ
-- Apache Tomcat
-- Maven / Gradle
-- Git & GitHub
-- Postman
-- GitHub Pages (for frontend hosting)
+## 📊 GitHub Stats
 
----
+![Sagar's GitHub
+stats](https://github-readme-stats.vercel.app/api?username=Sagar2372004&show_icons=true&theme=radical)\
+![Top
+Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar2372004&layout=compact&theme=radical)
 
-## 📌 My Projects:
-- 📚 **Library Management System** (Java + MySQL)
-- 🎓 **Student CRUD App** (JSP + JDBC)
-- 🔐 **Login Auth System** (Spring Boot + Hibernate)
-- 🌍 **Portfolio Website** (Coming Soon...)
+------------------------------------------------------------------------
 
----
+## 🏆 GitHub Trophy
 
-## 📈 GitHub Stats:
+![Trophy](https://github-profile-trophy.vercel.app/?username=Sagar2372004&theme=darkhub)
 
-![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sagar2372004&show_icons=true&theme=tokyonight)
+------------------------------------------------------------------------
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sagar2372004&theme=radical)](https://git.io/streak-stats)
-
----
-
-## 📫 Connect With Me:
-- ✉️ Email: akolkars2004@gmail.com
-- 🔗 LinkedIn:www.linkedin.com/in/sagar-akolkar-273390309
-
-⭐ Thanks for visiting my GitHub profile!
-
+⭐ From [Sagar2372004](https://github.com/Sagar2372004)
