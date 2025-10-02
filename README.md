@@ -1,51 +1,21 @@
-# Hi there 👋, I'm Sagar Akolkar
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sagar2372004&label=Profile%20views&color=0e75b6&style=flat" alt="SagarAkolkar" /> </p>
 
-## 💻 About Me
+- 🌱 I’ve strong foundation in "Java"
+- 🌱 I’ve a strong foundation in "Java"
 
--   🌱 I'm currently learning **Java \| Spring Boot \| React \| MySQL**
--   👯 I'm looking to collaborate on **Web Development Projects**
--   💬 Ask me about **Java, HTML, CSS, JS**
--   📫 Reach me at: **akolkars2004@gmail.com**
+- 💬 Ask me about "Core Java","Advanced Java","SpringBoot"
 
-------------------------------------------------------------------------
+- 📫 How to reach me "akolkars2004@gmail.com"
 
-## 🔗 Connect with me
+- ⚡ Fun fact "I Think I'm Funny"
 
-[![Gmail](https://img.shields.io/badge/-akolkars2004@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akolkars2004@gmail.com)](mailto:akolkars2004@gmail.com)
-
-------------------------------------------------------------------------
-
-## 🚀 Languages & Tools
-
-```{=html}
-<p>
-```
-`<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />`{=html}
-`<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />`{=html}
-`<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />`{=html}
-`<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />`{=html}
-`<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />`{=html}
-`<img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" />`{=html}
-`<img src="https://img.icons8.com/plasticine/48/react.png" alt="React" />`{=html}
-```{=html}
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/sagar-akolkar-273390309/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sagar-akolkar-273390309" height="30" width="40" /></a>
 </p>
-```
 
-------------------------------------------------------------------------
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-## 📊 GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sagar2372004&show_icons=true&locale=en&layout=compact" alt="SagarAkolkar" /></p>
 
-![Sagar's GitHub
-stats](https://github-readme-stats.vercel.app/api?username=Sagar2372004&show_icons=true&theme=radical)\
-![Top
-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar2372004&layout=compact&theme=radical)
-
-------------------------------------------------------------------------
-
-## 🏆 GitHub Trophy
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Sagar2372004&theme=darkhub)
-
-------------------------------------------------------------------------
-
-⭐ From [Sagar2372004](https://github.com/Sagar2372004)
