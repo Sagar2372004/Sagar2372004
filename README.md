@@ -1,13 +1,14 @@
+<h1 align="center">Hi there 👋, I'm Nikita</h1>
+<h3 align="center">A Passionate Java Developer From India</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sagar2372004&label=Profile%20views&color=0e75b6&style=flat" alt="SagarAkolkar" /> </p>
 
-- 🌱 I’ve strong foundation in "Java"
-- 🌱 I’ve a strong foundation in "Java"
-
-- 💬 Ask me about "Core Java","Advanced Java","SpringBoot"
-
-- 📫 How to reach me "akolkars2004@gmail.com"
-
-- ⚡ Fun fact "I Think I'm Funny"
+- 🔭 I’m currently working on **Java Projects**
+- 🌱 I’m currently learning **Spring Boot & Full Stack Development**
+- 👯 I’m looking to collaborate on **Java + Web Development Projects**
+- 💬 Ask me about **Core Java, Advanced Java, Spring Boot**
+- 📫 How to reach me: **akolkars2004@gmail.com**
+- ⚡ Fun fact: **Coding is my Coffee ☕**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
