@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Nikita</h1>
+<h1 align="center">Hi there 👋, I'm Sagar</h1>
 <h3 align="center">A Passionate Java Developer From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sagar2372004&label=Profile%20views&color=0e75b6&style=flat" alt="SagarAkolkar" /> </p>
